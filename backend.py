@@ -1,2 +1,2 @@
-string = "This is a python module"
+string = "This is a Python Module"
 print(string)
